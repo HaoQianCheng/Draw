@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.8" pages="2">
   <diagram id="i7KtP-Vs8fw_sYRqWalm" name="Sequence diagram">
-    <mxGraphModel dx="4411" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
+    <mxGraphModel dx="2373" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,7 +188,7 @@
           <mxGeometry x="840" y="72.5" width="40" height="847.5" as="geometry" />
         </mxCell>
         <mxCell id="JydccJCQ6fTOZagrxZ0v-52" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="260" y="72.5" width="340" height="1290" as="geometry" />
+          <mxGeometry x="260" y="72.5" width="820" height="1290" as="geometry" />
         </mxCell>
         <mxCell id="XppZFFv2hi1EjOijFOD9-4" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;冷库业务系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="JydccJCQ6fTOZagrxZ0v-52" vertex="1">
           <mxGeometry width="153.33" height="920" as="geometry" />
@@ -279,6 +279,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XppZFFv2hi1EjOijFOD9-25" value="sd searchForItems" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="JydccJCQ6fTOZagrxZ0v-52" vertex="1">
+          <mxGeometry x="-450" y="-92.5" width="1270" height="1162.5" as="geometry" />
+        </mxCell>
         <mxCell id="JydccJCQ6fTOZagrxZ0v-57" value="" style="shape=umlDestroy;html=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="220" width="30" height="30" as="geometry" />
         </mxCell>
@@ -317,9 +320,6 @@
         </mxCell>
         <mxCell id="JydccJCQ6fTOZagrxZ0v-115" value="&lt;h1&gt;&lt;b&gt;入库时序图&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="-60" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HT6MiuLGCi4q6tSzI8XS-1" value="state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5" y="-102" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XppZFFv2hi1EjOijFOD9-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="855" y="348" width="10" height="42" as="geometry" />
@@ -364,9 +364,6 @@
         </mxCell>
         <mxCell id="rYg8_pKWDpieuBRK71my-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;最终提交的数据一定是没问题的&lt;br&gt;机械臂将血筐放入位置出来后调用&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-175" y="625" width="260" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XppZFFv2hi1EjOijFOD9-25" value="sd searchForItems" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-2940" y="170" width="1110" height="1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
