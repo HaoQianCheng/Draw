@@ -483,8 +483,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F7vfhrbOquVaVjIP4Q21-60" value="&lt;h1&gt;&lt;b&gt;入库时序图&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-22.679263565891475" width="140" height="70" as="geometry" />
+        <mxCell id="F7vfhrbOquVaVjIP4Q21-60" value="&lt;h1&gt;入库-重新扫描&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-59.999263565891475" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F7vfhrbOquVaVjIP4Q21-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;container=0;" vertex="1" parent="1">
           <mxGeometry x="141" y="570" width="10" height="40" as="geometry" />
