@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.8" pages="2">
   <diagram id="i7KtP-Vs8fw_sYRqWalm" name="Sequence diagram">
-    <mxGraphModel dx="3189" dy="2106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="2106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JydccJCQ6fTOZagrxZ0v-60" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="201" y="290" width="720" height="620" as="geometry" />
+          <mxGeometry x="201" y="290" width="750" height="780" as="geometry" />
         </mxCell>
         <mxCell id="JydccJCQ6fTOZagrxZ0v-61" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" parent="JydccJCQ6fTOZagrxZ0v-60" vertex="1">
           <mxGeometry x="137" y="140" width="10" height="39" as="geometry" />
@@ -103,13 +103,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYg8_pKWDpieuBRK71my-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;entryX=1;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JydccJCQ6fTOZagrxZ0v-60" target="JydccJCQ6fTOZagrxZ0v-60">
+        <mxCell id="rYg8_pKWDpieuBRK71my-1" value="" style="endArrow=none;html=1;strokeWidth=4;rounded=0;entryX=1;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JydccJCQ6fTOZagrxZ0v-60" target="JydccJCQ6fTOZagrxZ0v-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1" y="200" as="sourcePoint" />
             <mxPoint x="49" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYg8_pKWDpieuBRK71my-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;entryX=1;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JydccJCQ6fTOZagrxZ0v-60">
+        <mxCell id="rYg8_pKWDpieuBRK71my-2" value="" style="endArrow=none;html=1;strokeWidth=4;rounded=0;entryX=1;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JydccJCQ6fTOZagrxZ0v-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1" y="452" as="sourcePoint" />
             <mxPoint x="720" y="450" as="targetPoint" />
@@ -124,8 +124,8 @@
         <mxCell id="rYg8_pKWDpieuBRK71my-5" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;重新扫描&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JydccJCQ6fTOZagrxZ0v-60">
           <mxGeometry x="19" y="460" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XppZFFv2hi1EjOijFOD9-25" value="sd searchForItems" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1110" y="100" width="1000" height="1000" as="geometry" />
+        <mxCell id="XppZFFv2hi1EjOijFOD9-25" value="sd searchForItems" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="JydccJCQ6fTOZagrxZ0v-60" vertex="1">
+          <mxGeometry x="-335" y="-270" width="1085" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="XppZFFv2hi1EjOijFOD9-2" value=":Customer" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="130" y="80" width="20" height="910" as="geometry" />
@@ -358,6 +358,15 @@
           <mxGeometry x="0.037" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rYg8_pKWDpieuBRK71my-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="JydccJCQ6fTOZagrxZ0v-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="650" as="sourcePoint" />
+            <mxPoint x="-30" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYg8_pKWDpieuBRK71my-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;10秒内未有数据返回调用&lt;br&gt;手动停止扫描&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="625" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
