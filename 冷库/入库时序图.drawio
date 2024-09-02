@@ -429,7 +429,7 @@
         <mxCell id="F7vfhrbOquVaVjIP4Q21-6" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F7vfhrbOquVaVjIP4Q21-41">
           <mxGeometry x="100.66666666666669" y="520" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F7vfhrbOquVaVjIP4Q21-7" value="重新扫描" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.333;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="F7vfhrbOquVaVjIP4Q21-41" source="F7vfhrbOquVaVjIP4Q21-4">
+        <mxCell id="F7vfhrbOquVaVjIP4Q21-7" value="点击重新扫描" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.333;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="F7vfhrbOquVaVjIP4Q21-41" source="F7vfhrbOquVaVjIP4Q21-4">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-109" y="510" as="sourcePoint" />
             <mxPoint x="76.38633333333337" y="510.1374999999998" as="targetPoint" />
