@@ -52,9 +52,6 @@
         <mxCell id="rYg8_pKWDpieuBRK71my-3" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;返回标签&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JydccJCQ6fTOZagrxZ0v-60">
           <mxGeometry x="19" y="40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rYg8_pKWDpieuBRK71my-4" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;提交&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JydccJCQ6fTOZagrxZ0v-60">
-          <mxGeometry x="34" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XppZFFv2hi1EjOijFOD9-2" value=":Customer" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="130" y="80" width="20" height="710" as="geometry" />
         </mxCell>
@@ -160,7 +157,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JydccJCQ6fTOZagrxZ0v-100" value="提交" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.333;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" parent="JydccJCQ6fTOZagrxZ0v-52" edge="1">
+        <mxCell id="JydccJCQ6fTOZagrxZ0v-100" value="点击入库" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.333;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" parent="JydccJCQ6fTOZagrxZ0v-52" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-110" y="477.5" as="sourcePoint" />
             <mxPoint x="75" y="477.5" as="targetPoint" />
@@ -196,6 +193,9 @@
         </mxCell>
         <mxCell id="JydccJCQ6fTOZagrxZ0v-115" value="&lt;h1&gt;&lt;b&gt;入库时序图&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="JydccJCQ6fTOZagrxZ0v-52" vertex="1">
           <mxGeometry x="210" y="-92.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ppZE_xoksTWEemSVoQRX-1" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JydccJCQ6fTOZagrxZ0v-52">
+          <mxGeometry x="-100.0033333333333" y="477.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JydccJCQ6fTOZagrxZ0v-57" value="" style="shape=umlDestroy;html=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="220" width="30" height="30" as="geometry" />
