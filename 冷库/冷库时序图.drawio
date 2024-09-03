@@ -778,7 +778,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PCeIyfx908hVZW7dajC" name="盘库（宏诚-盘库页面）">
-    <mxGraphModel dx="4212" dy="2916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2866" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1040,8 +1040,8 @@
             <mxPoint x="-590" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8Q2a0j_9uabv0Ag2UX8-1" value="status=0请处理异常" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0008" relative="1" as="geometry">
+        <mxCell id="I8Q2a0j_9uabv0Ag2UX8-1" value="status==0 （盘库盒状态异常）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.004" relative="1" as="geometry">
             <mxPoint x="-1355.38" y="455" as="sourcePoint" />
             <mxPoint x="-1530" y="455" as="targetPoint" />
             <mxPoint as="offset" />
