@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.8" pages="4">
   <diagram id="i7KtP-Vs8fw_sYRqWalm" name="入库-提交">
-    <mxGraphModel dx="3392" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
+    <mxGraphModel dx="2997" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
             <mxPoint x="125" y="125" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JydccJCQ6fTOZagrxZ0v-42" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;&lt;b&gt;开启盘库事务（begin）&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JydccJCQ6fTOZagrxZ0v-12" vertex="1" connectable="0">
+        <mxCell id="JydccJCQ6fTOZagrxZ0v-42" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;&lt;b&gt;开启入库事务（begin）&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JydccJCQ6fTOZagrxZ0v-12" vertex="1" connectable="0">
           <mxGeometry x="-0.0222" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -670,24 +670,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PCeIyfx908hVZW7dajC" name="盘库（宏诚-盘库页面）">
-    <mxGraphModel dx="2805" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2613" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GdKYggSOBp5zmtaG2bh--1" value=":Customer" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1550.003125" y="120" width="20.491666666666664" height="750" as="geometry" />
+          <mxGeometry x="-1550.003125" y="120" width="20.491666666666664" height="800" as="geometry" />
         </mxCell>
         <mxCell id="GdKYggSOBp5zmtaG2bh--2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="GdKYggSOBp5zmtaG2bh--1">
-          <mxGeometry x="5.122916666666666" y="70" width="10.245833333333332" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="HsPZ5qJ9ZzVsc_PDgFQq-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1430" y="120" width="157.0999999999999" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="HsPZ5qJ9ZzVsc_PDgFQq-1" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;冷库业务系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-5">
-          <mxGeometry width="157.1" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="HsPZ5qJ9ZzVsc_PDgFQq-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-5">
-          <mxGeometry x="74.62311250000016" y="67.5" width="7.858554166666665" height="682.5" as="geometry" />
+          <mxGeometry x="5.12" y="70" width="10.25" height="730" as="geometry" />
         </mxCell>
         <mxCell id="VqDMIaVeIUCoXIT12TEP-1" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;冷库服务&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-870.0022916666667" y="120" width="151.6383333333333" height="757.5" as="geometry" />
@@ -695,8 +686,29 @@
         <mxCell id="GI7WG8cJsamo9AcOyjx--1" value="&lt;font face=&quot;Microsoft YaHei&quot; color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;宏城-盘库页面&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1140.0022916666667" y="120" width="151.6383333333333" height="757.5" as="geometry" />
         </mxCell>
+        <mxCell id="GI7WG8cJsamo9AcOyjx--3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GI7WG8cJsamo9AcOyjx--1">
+          <mxGeometry x="71.89" y="110" width="7.86" height="560" as="geometry" />
+        </mxCell>
         <mxCell id="GI7WG8cJsamo9AcOyjx--2" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;盘库盒&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-610.0022916666667" y="120" width="151.6383333333333" height="757.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HsPZ5qJ9ZzVsc_PDgFQq-1" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;冷库业务系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="120" width="157.1" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="HsPZ5qJ9ZzVsc_PDgFQq-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1355.38" y="193" width="7.86" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f7LvN9nwwH7yEPKV6jzJ-1" value="点击盘库开始" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.237;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GdKYggSOBp5zmtaG2bh--2" target="HsPZ5qJ9ZzVsc_PDgFQq-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1537.0714583333333" y="187.5" as="sourcePoint" />
+            <mxPoint x="-1347.5235416666667" y="187.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7LvN9nwwH7yEPKV6jzJ-2" value="点击盘库开始" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.226;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="GI7WG8cJsamo9AcOyjx--3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1347.52" y="235.5" as="sourcePoint" />
+            <mxPoint x="-1165.52" y="235.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
