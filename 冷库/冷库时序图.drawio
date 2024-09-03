@@ -778,7 +778,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PCeIyfx908hVZW7dajC" name="盘库（宏诚-盘库页面）">
-    <mxGraphModel dx="3093" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3425" dy="2378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -789,13 +789,13 @@
           <mxGeometry x="-1510" y="1665" width="863" height="230" as="geometry" />
         </mxCell>
         <mxCell id="I8Q2a0j_9uabv0Ag2UX8-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1085.11" y="712" width="7.86" height="2558" as="geometry" />
+          <mxGeometry x="-1085.11" y="712" width="7.86" height="2248" as="geometry" />
         </mxCell>
         <mxCell id="ccompIzvzmXr12poWrsZ-1" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;取消当前事务（Alt）&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="1080" width="1000" height="250" as="geometry" />
         </mxCell>
         <mxCell id="GI7WG8cJsamo9AcOyjx--2" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;宏诚-盘库盒&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-677.44" y="120" width="190.74" height="3230" as="geometry" />
+          <mxGeometry x="-677.44" y="120" width="190.74" height="2840" as="geometry" />
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GI7WG8cJsamo9AcOyjx--2">
           <mxGeometry x="91.44000000000005" y="1410" width="10" height="40" as="geometry" />
@@ -813,13 +813,13 @@
           <mxGeometry x="-1280" y="810" width="770" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GdKYggSOBp5zmtaG2bh--1" value=":Customer" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1550.003125" y="120" width="20.491666666666664" height="3210" as="geometry" />
+          <mxGeometry x="-1550" y="120" width="20.49" height="2850" as="geometry" />
         </mxCell>
         <mxCell id="GdKYggSOBp5zmtaG2bh--2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" parent="GdKYggSOBp5zmtaG2bh--1" vertex="1">
-          <mxGeometry x="5.12" y="70" width="10.25" height="3140" as="geometry" />
+          <mxGeometry x="5.12" y="70" width="10.25" height="2770" as="geometry" />
         </mxCell>
         <mxCell id="VqDMIaVeIUCoXIT12TEP-1" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;宏诚-冷库服务&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-903" y="120" width="153" height="3190" as="geometry" />
+          <mxGeometry x="-903" y="120" width="153" height="2850" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-16" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="-587" y="1900" width="1297" height="420" as="geometry" />
@@ -891,7 +891,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HsPZ5qJ9ZzVsc_PDgFQq-1" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; font-weight: 600;&quot;&gt;冷库业务系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-1430" y="119" width="157.1" height="3221" as="geometry" />
+          <mxGeometry x="-1430" y="119" width="157.1" height="2851" as="geometry" />
         </mxCell>
         <mxCell id="KbeSsBhZzK9zwJdovKtJ-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
           <mxGeometry x="77" y="1310" width="10" height="40" as="geometry" />
@@ -929,6 +929,9 @@
               <mxPoint x="117" y="2022" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZV-uW0bt5ePDVNMZOrV-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
+          <mxGeometry x="73.55" y="2731" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f7LvN9nwwH7yEPKV6jzJ-1" value="点击盘库开始" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.237;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -1174,7 +1177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-1" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; font-weight: 600;&quot;&gt;宏诚-&lt;/span&gt;&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;手持机&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="120" width="190.74" height="3170" as="geometry" />
+          <mxGeometry x="-413" y="120" width="190.74" height="2840" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="8ZV-uW0bt5ePDVNMZOrV-1">
           <mxGeometry x="90.37" y="2002" width="10" height="140" as="geometry" />
@@ -1213,6 +1216,16 @@
             <mxPoint x="-831.11" y="2760" as="sourcePoint" />
             <mxPoint x="-1075.97" y="2760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZV-uW0bt5ePDVNMZOrV-23" value="盘库结束" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="8ZV-uW0bt5ePDVNMZOrV-24">
+          <mxGeometry x="-0.0011" width="80" relative="1" as="geometry">
+            <mxPoint x="-1085.1100000000001" y="2850" as="sourcePoint" />
+            <mxPoint x="-1337" y="2850" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZV-uW0bt5ePDVNMZOrV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZV-uW0bt5ePDVNMZOrV-1" target="8ZV-uW0bt5ePDVNMZOrV-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
