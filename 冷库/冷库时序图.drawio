@@ -921,6 +921,17 @@
         <mxCell id="n_rbMrs98D8mxA_O5YS3-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="71.8900000000001" y="1442" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9gVvzRBo_RYVE4VSSPUU-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
+          <mxGeometry x="-179" y="2020" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9gVvzRBo_RYVE4VSSPUU-2" value="显示补扫内容（货位号）" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" target="9gVvzRBo_RYVE4VSSPUU-1" parent="VqDMIaVeIUCoXIT12TEP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-174" y="2000" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-144" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GI7WG8cJsamo9AcOyjx--1" value="&lt;font face=&quot;Microsoft YaHei&quot; color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;宏诚-盘库页面&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1157" y="120" width="151.64" height="1250" as="geometry" />
         </mxCell>
