@@ -792,13 +792,13 @@
           <mxGeometry x="-1510" y="2027" width="1330" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="I8Q2a0j_9uabv0Ag2UX8-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1085.11" y="712" width="7.86" height="2428" as="geometry" />
+          <mxGeometry x="-1085.11" y="712" width="7.86" height="2348" as="geometry" />
         </mxCell>
         <mxCell id="ccompIzvzmXr12poWrsZ-1" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;取消当前事务（Alt）&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="1080" width="1000" height="250" as="geometry" />
         </mxCell>
         <mxCell id="GI7WG8cJsamo9AcOyjx--2" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;宏诚-盘库盒&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-677.44" y="120" width="190.74" height="3060" as="geometry" />
+          <mxGeometry x="-677.44" y="120" width="190.74" height="2940" as="geometry" />
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GI7WG8cJsamo9AcOyjx--2">
           <mxGeometry x="89.3000000000001" y="1772.1" width="10" height="40" as="geometry" />
@@ -825,13 +825,13 @@
           <mxGeometry x="-1280" y="810" width="770" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GdKYggSOBp5zmtaG2bh--1" value=":Customer" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1550" y="120" width="20.49" height="3020" as="geometry" />
+          <mxGeometry x="-1550" y="120" width="20.49" height="2940" as="geometry" />
         </mxCell>
         <mxCell id="GdKYggSOBp5zmtaG2bh--2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" parent="GdKYggSOBp5zmtaG2bh--1" vertex="1">
-          <mxGeometry x="5.12" y="70" width="10.25" height="2930" as="geometry" />
+          <mxGeometry x="5.12" y="70" width="10.25" height="2870" as="geometry" />
         </mxCell>
         <mxCell id="VqDMIaVeIUCoXIT12TEP-1" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;宏诚-冷库服务&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-903" y="120" width="153" height="3020" as="geometry" />
+          <mxGeometry x="-903" y="120" width="153" height="2940" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-16" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="-587" y="1999" width="1297" height="420" as="geometry" />
@@ -963,7 +963,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HsPZ5qJ9ZzVsc_PDgFQq-1" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; font-weight: 600;&quot;&gt;冷库业务系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-1430" y="119" width="160" height="3021" as="geometry" />
+          <mxGeometry x="-1430" y="119" width="160" height="2941" as="geometry" />
         </mxCell>
         <mxCell id="KbeSsBhZzK9zwJdovKtJ-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
           <mxGeometry x="74.86" y="1657" width="10" height="55.1" as="geometry" />
@@ -1241,7 +1241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-1" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; font-weight: 600;&quot;&gt;宏诚-&lt;/span&gt;&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;手持机&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="120" width="190.74" height="3070" as="geometry" />
+          <mxGeometry x="-413" y="120" width="190.74" height="2940" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="8ZV-uW0bt5ePDVNMZOrV-1">
           <mxGeometry x="95.00000000000006" y="2101" width="10" height="40" as="geometry" />
