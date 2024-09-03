@@ -375,7 +375,7 @@
           <mxGeometry x="-657.430486111111" y="630" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KhGppTupB5uiBpiw8btR-2" value="30秒后无内容后停止扫描" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="630" width="130" height="60" as="geometry" />
+          <mxGeometry x="-870" y="630" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YEC91V2a1LTBiHcoTa7g-20" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;取消当前事务（Alt）&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-880" y="970" width="736.68" height="230" as="geometry" />
