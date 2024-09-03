@@ -644,7 +644,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CWnKQxNXcsYEuCwcrzkk-65" value="入库成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CWnKQxNXcsYEuCwcrzkk-63">
+        <mxCell id="CWnKQxNXcsYEuCwcrzkk-65" value="出库成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CWnKQxNXcsYEuCwcrzkk-63">
           <mxGeometry x="0.037" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
