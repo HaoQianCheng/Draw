@@ -778,7 +778,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PCeIyfx908hVZW7dajC" name="盘库（宏诚-盘库页面）">
-    <mxGraphModel dx="2866" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3093" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -816,7 +816,7 @@
           <mxGeometry x="-1280" y="810" width="770" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GdKYggSOBp5zmtaG2bh--1" value=":Customer" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1550" y="120" width="20.49" height="3500" as="geometry" />
+          <mxGeometry x="-1550" y="120" width="20.49" height="2890" as="geometry" />
         </mxCell>
         <mxCell id="GdKYggSOBp5zmtaG2bh--2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" parent="GdKYggSOBp5zmtaG2bh--1" vertex="1">
           <mxGeometry x="5.12" y="70" width="10.25" height="2800" as="geometry" />
@@ -1111,7 +1111,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GbIUVs37GcsqZ0U1R485-1" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;取消盘库事务（Cancel）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="GbIUVs37GcsqZ0U1R485-1" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
             <mxPoint x="-827.25" y="1230" as="sourcePoint" />
             <mxPoint x="-590" y="1230" as="targetPoint" />
@@ -1264,7 +1264,7 @@
         <mxCell id="n3XDODtVY4LhvrS-RQL--20" value="【总数：100%】" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="1409" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ZV-uW0bt5ePDVNMZOrV-29" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;取消盘库事务（Cancel）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="8ZV-uW0bt5ePDVNMZOrV-29" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
             <mxPoint x="-823.25" y="1500" as="sourcePoint" />
             <mxPoint x="-586" y="1500" as="targetPoint" />
@@ -1288,6 +1288,9 @@
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-41" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1309.9981944444444" y="2760" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ng8fpgb_dkW_eNKdVAH9-5" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1045.0081944444441" y="1910" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
