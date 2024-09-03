@@ -552,16 +552,16 @@
           <mxGeometry x="50" y="22" width="1089.5" height="960" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-14" value=":Customer" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-915.833125" y="170" width="20.491666666666664" height="750" as="geometry" />
+          <mxGeometry x="-915.83" y="170" width="20.49" height="420" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CWnKQxNXcsYEuCwcrzkk-14">
-          <mxGeometry x="5.122916666666666" y="70" width="10.245833333333332" height="680" as="geometry" />
+          <mxGeometry x="5.12" y="70" width="10.25" height="330" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-17" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;冷库服务&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-524.4422916666667" y="162.5" width="151.6383333333333" height="757.5" as="geometry" />
+          <mxGeometry x="-524.44" y="162.5" width="151.64" height="447.5" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-26" value="BiCycle" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-226.37895833333346" y="162.5" width="40.98333333333333" height="767.5" as="geometry" />
+          <mxGeometry x="-226.38" y="162.5" width="40.98" height="447.5" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-66" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="CWnKQxNXcsYEuCwcrzkk-26">
           <mxGeometry x="15.367500000000064" y="277" width="10.245833333333332" height="39" as="geometry" />
@@ -577,10 +577,10 @@
           <mxGeometry x="-812.7847916666666" y="355" width="30.737499999999994" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-41" value="&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;冷库业务系统&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-782.6372916666667" y="162.5" width="157.0993625" height="770" as="geometry" />
+          <mxGeometry x="-782.64" y="162.5" width="157.1" height="437.5" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="CWnKQxNXcsYEuCwcrzkk-41">
-          <mxGeometry x="74.62040416666666" y="77.5" width="7.858554166666665" height="682.5" as="geometry" />
+          <mxGeometry x="74.62" y="77.5" width="7.86" height="332.5" as="geometry" />
         </mxCell>
         <mxCell id="CWnKQxNXcsYEuCwcrzkk-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="CWnKQxNXcsYEuCwcrzkk-41">
           <mxGeometry x="78.45833333333333" y="147.5" width="10.245833333333332" height="40" as="geometry" />
