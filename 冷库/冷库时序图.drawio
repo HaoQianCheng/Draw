@@ -778,18 +778,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PCeIyfx908hVZW7dajC" name="盘库（宏诚-盘库页面）">
-    <mxGraphModel dx="3105" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3440" dy="2378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-16" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-1490" y="2710" width="1297" height="454" as="geometry" />
+          <mxGeometry x="-1490" y="2774" width="1297" height="454" as="geometry" />
         </mxCell>
         <mxCell id="n_rbMrs98D8mxA_O5YS3-1" value="sd searchForItems" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-50" width="1630" height="3300" as="geometry" />
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--19" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;提前盘库结束（Alt）&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="1520" width="1010" height="520" as="geometry" />
+          <mxGeometry x="-1510" y="1520" width="1010" height="590" as="geometry" />
         </mxCell>
         <mxCell id="I8Q2a0j_9uabv0Ag2UX8-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1085.11" y="712" width="7.86" height="3858" as="geometry" />
@@ -801,28 +801,28 @@
           <mxGeometry x="-677.44" y="130" width="187.44" height="4550" as="geometry" />
         </mxCell>
         <mxCell id="KbeSsBhZzK9zwJdovKtJ-1" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;手动补扫阶段（Alt）&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="GI7WG8cJsamo9AcOyjx--2">
-          <mxGeometry x="-832.56" y="2414" width="1402.56" height="1156" as="geometry" />
+          <mxGeometry x="-832.56" y="2478" width="1402.56" height="1156" as="geometry" />
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GI7WG8cJsamo9AcOyjx--2">
-          <mxGeometry x="89.3000000000001" y="2073.1" width="10" height="40" as="geometry" />
+          <mxGeometry x="89.3000000000001" y="2137.1" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-19" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;盘库结束（End）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="GI7WG8cJsamo9AcOyjx--2">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-399.80637499999966" y="3143" as="sourcePoint" />
-            <mxPoint x="-152.55999999999995" y="3143" as="targetPoint" />
+            <mxPoint x="-399.80637499999966" y="3207" as="sourcePoint" />
+            <mxPoint x="-152.55999999999995" y="3207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GI7WG8cJsamo9AcOyjx--2">
-          <mxGeometry x="90.37000000000012" y="1604" width="10" height="40" as="geometry" />
+          <mxGeometry x="90.37" y="1658" width="10" height="54" as="geometry" />
         </mxCell>
         <mxCell id="n_rbMrs98D8mxA_O5YS3-3" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="GI7WG8cJsamo9AcOyjx--2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="99.30000000000007" y="1644" as="sourcePoint" />
-            <mxPoint x="-142.55999999999995" y="1644" as="targetPoint" />
+            <mxPoint x="99.30000000000007" y="1712" as="sourcePoint" />
+            <mxPoint x="-142.55999999999995" y="1712" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-39" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;后续调用出入口接口&lt;/b&gt;&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GI7WG8cJsamo9AcOyjx--2">
-          <mxGeometry x="-642.56" y="3490" width="210" height="60" as="geometry" />
+          <mxGeometry x="-642.56" y="3554" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HGPu0wTJE7wFFPK_HSXw-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-586" y="640" width="7.86" height="370" as="geometry" />
@@ -861,34 +861,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="69.75000000000014" y="2013.1" width="10" height="60" as="geometry" />
+          <mxGeometry x="69.75000000000014" y="2077.1" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3XDODtVY4LhvrS-RQL--8" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
+        <mxCell id="n3XDODtVY4LhvrS-RQL--8" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒&lt;/b&gt;&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;（关闭服务）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
-            <mxPoint x="69.75000000000014" y="2073.1" as="sourcePoint" />
-            <mxPoint x="320.86" y="2073.1" as="targetPoint" />
+            <mxPoint x="69.75000000000014" y="2137.1" as="sourcePoint" />
+            <mxPoint x="320.86" y="2137.1" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="67.61000000000004" y="2113.1" width="10" height="60" as="geometry" />
+          <mxGeometry x="67.61000000000004" y="2177.1" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="72" y="3142" width="10" height="140" as="geometry" />
+          <mxGeometry x="72" y="3206" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="81" y="3202" width="10" height="40" as="geometry" />
+          <mxGeometry x="81" y="3266" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-22" value="保存盘库记录" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="8ZV-uW0bt5ePDVNMZOrV-21" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="86" y="3182" as="sourcePoint" />
+            <mxPoint x="86" y="3246" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="116" y="3212" />
+              <mxPoint x="116" y="3276" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="-449.45" y="1698" width="10" height="182" as="geometry" />
+          <mxGeometry x="-449.45" y="1766" width="10" height="182" as="geometry" />
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--24" value="&lt;font face=&quot;Microsoft YaHei&quot; color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;b&gt;盘库结束（End）&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
@@ -898,33 +898,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="73.88999999999999" y="1543" width="10" height="60" as="geometry" />
+          <mxGeometry x="73.89" y="1543" width="10" height="207" as="geometry" />
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--26" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="73.88999999999999" y="1603" as="sourcePoint" />
-            <mxPoint x="-170.97000000000003" y="1603" as="targetPoint" />
+            <mxPoint x="73.88999999999999" y="1671" as="sourcePoint" />
+            <mxPoint x="-170.97000000000003" y="1671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-27" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="-126.99819444444438" y="1543" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-28" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="-393.9981944444444" y="1703" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n_rbMrs98D8mxA_O5YS3-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="71.8900000000001" y="1641" width="10" height="40" as="geometry" />
+          <mxGeometry x="-393.9981944444444" y="1771" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9gVvzRBo_RYVE4VSSPUU-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
-          <mxGeometry x="-179" y="2242" width="10" height="40" as="geometry" />
+          <mxGeometry x="-179" y="2306" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9gVvzRBo_RYVE4VSSPUU-2" value="显示补扫内容（货位号）" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-174" y="2233" as="sourcePoint" />
+            <mxPoint x="-174" y="2297" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-144" y="2263" />
+              <mxPoint x="-144" y="2327" />
             </Array>
-            <mxPoint x="-169" y="2263" as="targetPoint" />
+            <mxPoint x="-169" y="2327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-6" value="保存盘库记录" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
@@ -938,6 +935,18 @@
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="77.61000000000001" y="1139" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9GKAYk7Hlbh9FPWt0-eg-6" value="保存盘库记录" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83.88999999999999" y="1573" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="113.88999999999999" y="1603" />
+            </Array>
+            <mxPoint x="88.88999999999999" y="1603" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GKAYk7Hlbh9FPWt0-eg-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
+          <mxGeometry x="77.61000000000001" y="1592" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GI7WG8cJsamo9AcOyjx--1" value="&lt;font face=&quot;Microsoft YaHei&quot; color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;宏诚-盘库页面&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1157" y="120" width="151.64" height="1250" as="geometry" />
@@ -972,30 +981,30 @@
           <mxGeometry x="-1430" y="119" width="160" height="2941" as="geometry" />
         </mxCell>
         <mxCell id="KbeSsBhZzK9zwJdovKtJ-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
-          <mxGeometry x="74.86" y="1958" width="10" height="55.1" as="geometry" />
+          <mxGeometry x="74.86" y="2022" width="10" height="55.1" as="geometry" />
         </mxCell>
         <mxCell id="KbeSsBhZzK9zwJdovKtJ-3" value="等待机械臂" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="KbeSsBhZzK9zwJdovKtJ-2" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="79.86000000000004" y="1953.1" as="sourcePoint" />
+            <mxPoint x="79.86000000000004" y="2017.1" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="109.86000000000004" y="1983.1" />
+              <mxPoint x="109.86000000000004" y="2047.1" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
-          <mxGeometry x="71.41" y="2073.1" width="10" height="40" as="geometry" />
+          <mxGeometry x="71.41" y="2137.1" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
-          <mxGeometry x="73.55" y="3327" width="10" height="132" as="geometry" />
+          <mxGeometry x="73.55" y="3391" width="10" height="132" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
-          <mxGeometry x="80" y="3389" width="10" height="40" as="geometry" />
+          <mxGeometry x="80" y="3453" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-38" value="盘库结束" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="8ZV-uW0bt5ePDVNMZOrV-37" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="3369" as="sourcePoint" />
+            <mxPoint x="85" y="3433" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="115" y="3399" />
+              <mxPoint x="115" y="3463" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1022,22 +1031,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4q7BtKizYEvnIjgO4ssR-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
-          <mxGeometry x="82" y="1785" width="10" height="40" as="geometry" />
+        <mxCell id="4q7BtKizYEvnIjgO4ssR-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
+          <mxGeometry x="82" y="1853" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-15" value="机械臂回至出入口" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="4q7BtKizYEvnIjgO4ssR-14" parent="HsPZ5qJ9ZzVsc_PDgFQq-1">
           <mxGeometry x="-0.0057" relative="1" as="geometry">
-            <mxPoint x="87" y="1765" as="sourcePoint" />
+            <mxPoint x="87" y="1833" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="117" y="1795" />
+              <mxPoint x="117" y="1863" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-21" value="打开手持机补扫模块" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="HsPZ5qJ9ZzVsc_PDgFQq-1" target="4q7BtKizYEvnIjgO4ssR-22">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-102.06637499999988" y="2491" as="sourcePoint" />
-            <mxPoint x="80.00282000000016" y="2491.3275" as="targetPoint" />
+            <mxPoint x="-102.06637499999988" y="2555" as="sourcePoint" />
+            <mxPoint x="80.00282000000016" y="2555.3275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="95Iyph5YI4j4725h837E-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -1141,7 +1150,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GbIUVs37GcsqZ0U1R485-1" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="GbIUVs37GcsqZ0U1R485-1" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒（关闭服务）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
             <mxPoint x="-820" y="1346" as="sourcePoint" />
             <mxPoint x="-590" y="1346" as="targetPoint" />
@@ -1188,8 +1197,8 @@
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--1" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;自动盘库完成（&lt;/b&gt;&lt;font face=&quot;Microsoft YaHei&quot; color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;b&gt;AutoCheckCompleted&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
-            <mxPoint x="-1355.2499999999998" y="2133.1" as="sourcePoint" />
-            <mxPoint x="-833.2499999999999" y="2133.1" as="targetPoint" />
+            <mxPoint x="-1355.2499999999998" y="2197.1" as="sourcePoint" />
+            <mxPoint x="-833.2499999999999" y="2197.1" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1197,7 +1206,7 @@
           <mxGeometry x="-1156.9981944444444" y="1177" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--4" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1170.618194444444" y="2133.1" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1170.618194444444" y="2197.1" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z5VDA7l9tqDCrFM_d1a5-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-589.1777083333334" y="318.25" width="10" height="40" as="geometry" />
@@ -1224,79 +1233,79 @@
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-825.39" y="2193.1" as="sourcePoint" />
-            <mxPoint x="-1351.9599999999998" y="2193.1" as="targetPoint" />
+            <mxPoint x="-825.39" y="2257.1" as="sourcePoint" />
+            <mxPoint x="-1351.9599999999998" y="2257.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--15" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="n3XDODtVY4LhvrS-RQL--16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-580.2800000000001" y="2233.1" as="sourcePoint" />
-            <mxPoint x="-822.14" y="2233.1" as="targetPoint" />
+            <mxPoint x="-580.2800000000001" y="2297.1" as="sourcePoint" />
+            <mxPoint x="-822.14" y="2297.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;自动盘库完成（&lt;/b&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Microsoft YaHei&quot; color=&quot;#191919&quot;&gt;&lt;b&gt;AutoCheckCompleted&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;）&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.127;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-828.2499999999999" y="2293.1" as="sourcePoint" />
-            <mxPoint x="-1072.14" y="2293.1" as="targetPoint" />
+            <mxPoint x="-828.2499999999999" y="2357.1" as="sourcePoint" />
+            <mxPoint x="-1072.14" y="2357.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-1" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; font-weight: 600;&quot;&gt;宏诚-&lt;/span&gt;&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;; font-size:10.5pt; font-weight:600; color:#191919;&quot;&gt;手持机&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-413" y="120" width="190.74" height="4480" as="geometry" />
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="8ZV-uW0bt5ePDVNMZOrV-1">
-          <mxGeometry x="90.37" y="2440" width="10" height="600" as="geometry" />
+          <mxGeometry x="90.37" y="2504" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-17" value="点击盘库结束" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1536.4063749999998" y="3212" as="sourcePoint" />
-            <mxPoint x="-1090" y="3211" as="targetPoint" />
+            <mxPoint x="-1536.4063749999998" y="3276" as="sourcePoint" />
+            <mxPoint x="-1090" y="3275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-20" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-831.11" y="3402" as="sourcePoint" />
-            <mxPoint x="-1075.97" y="3402" as="targetPoint" />
+            <mxPoint x="-831.11" y="3466" as="sourcePoint" />
+            <mxPoint x="-1075.97" y="3466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-23" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;盘库结束（End）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0011" width="80" relative="1" as="geometry">
-            <mxPoint x="-1085.1100000000001" y="3445" as="sourcePoint" />
-            <mxPoint x="-1346.45" y="3446" as="targetPoint" />
+            <mxPoint x="-1085.1100000000001" y="3509" as="sourcePoint" />
+            <mxPoint x="-1346.45" y="3510" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--20" value="【总数：100%】" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="1560" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ZV-uW0bt5ePDVNMZOrV-29" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="8ZV-uW0bt5ePDVNMZOrV-29" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;关闭盘库盒&lt;/b&gt;&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;（关闭服务）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
-            <mxPoint x="-823.25" y="1724" as="sourcePoint" />
-            <mxPoint x="-586" y="1724" as="targetPoint" />
+            <mxPoint x="-823.25" y="1792" as="sourcePoint" />
+            <mxPoint x="-586" y="1792" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3XDODtVY4LhvrS-RQL--28" value="&lt;b style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;盘库结束（End）&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="n3XDODtVY4LhvrS-RQL--29">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1087" y="1825" as="sourcePoint" />
-            <mxPoint x="-1327" y="1824" as="targetPoint" />
+            <mxPoint x="-1087" y="1893" as="sourcePoint" />
+            <mxPoint x="-1327" y="1892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-40" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1039.9981944444444" y="3269" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1039.9981944444444" y="3333" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-41" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1309.9981944444444" y="3449" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1309.9981944444444" y="3513" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ng8fpgb_dkW_eNKdVAH9-5" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1045.0081944444441" y="2288" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1045.0081944444441" y="2352" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n_rbMrs98D8mxA_O5YS3-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;后续调用出入口接口&lt;/b&gt;&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1289.9999999999998" y="1950" width="168.84" height="60" as="geometry" />
+          <mxGeometry x="-1279.3699999999997" y="2020" width="168.84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n_rbMrs98D8mxA_O5YS3-5" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="n_rbMrs98D8mxA_O5YS3-5" value="通知当前盘库已结束" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-827.25" y="1802.87" as="sourcePoint" />
-            <mxPoint x="-1069.1100000000001" y="1802.87" as="targetPoint" />
+            <mxPoint x="-827.25" y="1870.87" as="sourcePoint" />
+            <mxPoint x="-1069.1100000000001" y="1870.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -1347,97 +1356,100 @@
           <mxGeometry x="-1309.9999999999998" y="1380" width="168.84" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1080.01" y="2439" width="10" height="40" as="geometry" />
+          <mxGeometry x="-1080.01" y="2503" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-20" value="提交按钮启用" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1075.01" y="2430" as="sourcePoint" />
+            <mxPoint x="-1075.01" y="2494" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1045.01" y="2460" />
+              <mxPoint x="-1045.01" y="2524" />
             </Array>
-            <mxPoint x="-1070.01" y="2460" as="targetPoint" />
+            <mxPoint x="-1070.01" y="2524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-831.11" y="2957" width="10" height="70" as="geometry" />
+          <mxGeometry x="-831.11" y="3021" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;补扫阶段不调用任何出入库&lt;/b&gt;&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1320.53" y="3090" width="210" height="60" as="geometry" />
+          <mxGeometry x="-1320.53" y="3154" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-3" value="点击1-1-1出库" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.237;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1535.0663749999999" y="2793" as="sourcePoint" />
-            <mxPoint x="-1352.9971799999998" y="2793.3275" as="targetPoint" />
+            <mxPoint x="-1535.0663749999999" y="2857" as="sourcePoint" />
+            <mxPoint x="-1352.9971799999998" y="2857.3275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1353" y="2793" width="10" height="99" as="geometry" />
+          <mxGeometry x="-1353" y="2857" width="10" height="99" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1348" y="2833" width="10" height="40" as="geometry" />
+          <mxGeometry x="-1348" y="2897" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-6" value="等待机械臂取出" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" target="8ZV-uW0bt5ePDVNMZOrV-5" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1343" y="2813" as="sourcePoint" />
+            <mxPoint x="-1343" y="2877" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1313" y="2843" />
+              <mxPoint x="-1313" y="2907" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1353" y="3031" width="10" height="99" as="geometry" />
+          <mxGeometry x="-1353" y="3095" width="10" height="99" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-36" value="等待机械臂放入" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1343" y="3051" as="sourcePoint" />
+            <mxPoint x="-1343" y="3115" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1313" y="3081" />
+              <mxPoint x="-1313" y="3145" />
             </Array>
-            <mxPoint x="-1338" y="3081" as="targetPoint" />
+            <mxPoint x="-1338" y="3145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1345.14" y="3071" width="10" height="40" as="geometry" />
+          <mxGeometry x="-1345.14" y="3135" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-317.99999999999994" y="2645" width="10" height="40" as="geometry" />
+          <mxGeometry x="-317.99999999999994" y="2709" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-12" value="提前拉取待补扫数据" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="8ZV-uW0bt5ePDVNMZOrV-11" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-312.99999999999994" y="2626" as="sourcePoint" />
+            <mxPoint x="-312.99999999999994" y="2690" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-282.99999999999994" y="2656" />
+              <mxPoint x="-282.99999999999994" y="2720" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-13" value="Epc" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="8ZV-uW0bt5ePDVNMZOrV-14">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-319.99999999999994" y="2962" as="sourcePoint" />
-            <mxPoint x="-577" y="2957" as="targetPoint" />
+            <mxPoint x="-319.99999999999994" y="3026" as="sourcePoint" />
+            <mxPoint x="-577" y="3021" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ZV-uW0bt5ePDVNMZOrV-15" value="TagInfo" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1.541;entryY=0.757;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-821.11" y="3027" as="sourcePoint" />
-            <mxPoint x="-1072.9977399999998" y="3027.4659999999994" as="targetPoint" />
+            <mxPoint x="-821.11" y="3091" as="sourcePoint" />
+            <mxPoint x="-1072.9977399999998" y="3091.4659999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-23" value="使用手持机扫描漏扫血液" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.902;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.907;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="8ZV-uW0bt5ePDVNMZOrV-16">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1535.0663749999999" y="2921" as="sourcePoint" />
-            <mxPoint x="-1352.9971799999998" y="2921.3275" as="targetPoint" />
+            <mxPoint x="-1535.0663749999999" y="2985" as="sourcePoint" />
+            <mxPoint x="-1352.9971799999998" y="2985.3275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1078" y="3060" width="10" height="40" as="geometry" />
+          <mxGeometry x="-1078" y="3124" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4q7BtKizYEvnIjgO4ssR-25" value="递减待补扫血液信息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" target="4q7BtKizYEvnIjgO4ssR-24" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1073" y="3040" as="sourcePoint" />
+            <mxPoint x="-1073" y="3104" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1043" y="3070" />
+              <mxPoint x="-1043" y="3134" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9GKAYk7Hlbh9FPWt0-eg-3" value="盘点分为两个部分：自动盘库阶段，补扫阶段&lt;div&gt;&lt;br&gt;自动盘库：使用机械臂承载盘库盒进行扫描，整体一圈扫描完成后，机械臂通知自动盘库完成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;补扫：由于自动盘库不可以百分之百将库存盘全，需要使用手持机进行补扫，需要使用机械臂将待补扫的血筐拿出（&lt;b&gt;不触发出入库提交逻辑&lt;/b&gt;），逐筐补扫血液。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-672.26" y="-60" width="450" height="149" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
