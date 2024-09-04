@@ -636,7 +636,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T8sxpgJzUAqh9inL8GAS" name="出库-提交">
-    <mxGraphModel dx="2866" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -778,7 +778,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PCeIyfx908hVZW7dajC" name="盘库（宏诚-盘库页面）">
-    <mxGraphModel dx="3440" dy="2378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3589" dy="2479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1131,7 +1131,7 @@
           <mxGeometry x="-1355.38" y="574.5" width="7.86" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UT5U0jhoq12exf0v-hgn-1" value="&lt;h1&gt;盘库（宏诚-盘库页面）&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-986.9947916666667" y="10" width="270" height="70" as="geometry" />
+          <mxGeometry x="-1000.0047916666667" y="-400" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ccompIzvzmXr12poWrsZ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1355.38" y="1147" width="7.86" height="35" as="geometry" />
@@ -1448,8 +1448,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9GKAYk7Hlbh9FPWt0-eg-3" value="盘点分为两个部分：自动盘库阶段，补扫阶段&lt;div&gt;&lt;br&gt;自动盘库：使用机械臂承载盘库盒进行扫描，整体一圈扫描完成后，机械臂通知自动盘库完成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;补扫：由于自动盘库不可以百分之百将库存盘全，需要使用手持机进行补扫，需要使用机械臂将待补扫的血筐拿出（&lt;b&gt;不触发出入库提交逻辑&lt;/b&gt;），逐筐补扫血液。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-672.26" y="-60" width="450" height="149" as="geometry" />
+        <mxCell id="9GKAYk7Hlbh9FPWt0-eg-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;盘点分为两个部分：自动盘库阶段，补扫阶段&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;自动盘库：使用机械臂承载盘库盒进行扫描，整体一圈扫描完成后，机械臂通知自动盘库完成。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;补扫：由于自动盘库不可以百分之百将库存盘全，需要使用手持机进行补扫，需要使用机械臂将待补扫的血筐拿出（&lt;b&gt;不触发出入库提交逻辑&lt;/b&gt;），逐筐补扫血液。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="-270" width="960" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9GKAYk7Hlbh9FPWt0-eg-9" value="注意事项1                                                                盘库阶段" style="resizeWidth=1;part=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;spacingLeft=5;fontSize=20;" vertex="1" parent="9GKAYk7Hlbh9FPWt0-eg-8">
+          <mxGeometry width="960" height="25" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
