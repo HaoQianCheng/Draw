@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.10" pages="4">
   <diagram id="i7KtP-Vs8fw_sYRqWalm" name="入库-提交">
-    <mxGraphModel dx="3404" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
+    <mxGraphModel dx="3199" dy="2106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -478,6 +478,12 @@
           <mxGeometry x="0.037" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sKCkRh9Jxb4LJDaYJURP-1" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;由于增加了事务的概念 对一些厂家造成了一些疑惑。可以将入库的事务操作从：开启事务-&amp;gt;停止事务-&amp;gt;提交事务，理解为：开始扫描-&amp;gt;停止扫描-&amp;gt;提交数据&lt;br&gt;增加事务ID 的好处：1.可以保证每一次操作都是唯一。2.保护RfidReader 设备，防止开启后忘记关闭 3.对于排查日志起到了关键的作用。&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-190" width="860" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sKCkRh9Jxb4LJDaYJURP-2" value="说明" style="resizeWidth=1;part=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;spacingLeft=5;fontSize=20;" vertex="1" parent="sKCkRh9Jxb4LJDaYJURP-1">
+          <mxGeometry width="860" height="25" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
