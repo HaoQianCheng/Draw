@@ -778,7 +778,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PCeIyfx908hVZW7dajC" name="盘库（宏诚-盘库页面）">
-    <mxGraphModel dx="3314" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2816" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -851,7 +851,7 @@
         <mxCell id="ccompIzvzmXr12poWrsZ-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry x="70.82" y="1067" width="10" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="GbIUVs37GcsqZ0U1R485-5" value="Cancel" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
+        <mxCell id="GbIUVs37GcsqZ0U1R485-5" value="通知当前盘库取消" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="VqDMIaVeIUCoXIT12TEP-1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="73" y="1272" as="sourcePoint" />
             <mxPoint x="-175.11000000000007" y="1272" as="targetPoint" />
