@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.12" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.12" pages="5">
   <diagram id="i7KtP-Vs8fw_sYRqWalm" name="入库-提交">
-    <mxGraphModel dx="4360" dy="2892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
+    <mxGraphModel dx="3041" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1019" pageHeight="1320" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xp4SNQW4bs-QOhOTDZ4t-1" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;重新扫描（Alt）&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Xp4SNQW4bs-QOhOTDZ4t-1" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;重新扫描（Alt）&lt;/b&gt;&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-878" y="1010" width="736.68" height="230" as="geometry" />
         </mxCell>
         <mxCell id="df3Xc9EHLCvCGCI0Srp7-19" value="&lt;b style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;机械臂故障（Alt）&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=160;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -372,10 +372,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
           <mxGeometry x="-452.04999999999995" y="1063" width="10" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-2" value="关闭RfidReader" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-2" value="关闭RfidReader" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-442.04999999999995" y="1090" as="sourcePoint" />
             <Array as="points">
@@ -384,58 +384,58 @@
             <mxPoint x="-439.05000000000064" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-445.04999999999995" y="1110" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-5" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-5" value="&lt;b&gt;[transactionId=20240902x]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="-678.3833333333332" y="1070" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-6" value="点击重新扫描" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.333;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-6" value="点击重新扫描" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.333;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-900" y="1060" as="sourcePoint" />
             <mxPoint x="-702.6636666666666" y="1060.1374999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-7" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13.3333px;&quot;&gt;取消盘库事务（cancel）&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=0.917;exitY=0.562;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="-0Y5yQMIjSoz9cmJx648-1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-7" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13.3333px;&quot;&gt;取消盘库事务（cancel）&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=0.917;exitY=0.562;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="-0Y5yQMIjSoz9cmJx648-1" edge="1">
           <mxGeometry x="-0.0037" width="80" relative="1" as="geometry">
             <mxPoint x="-698.1863333333333" y="1068.525" as="sourcePoint" />
             <mxPoint x="-424.04999999999995" y="1060" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-448.04999999999995" y="1149.9875000000002" as="sourcePoint" />
             <mxPoint x="-697.55" y="1149.9875000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="-0Y5yQMIjSoz9cmJx648-8">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" parent="-0Y5yQMIjSoz9cmJx648-8" vertex="1" connectable="0">
           <mxGeometry x="0.0519" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-10" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="-0Y5yQMIjSoz9cmJx648-8">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-10" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" parent="-0Y5yQMIjSoz9cmJx648-8" vertex="1" connectable="0">
           <mxGeometry x="0.037" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-710.7166666666665" y="1180.0025" as="sourcePoint" />
             <mxPoint x="-900" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="-0Y5yQMIjSoz9cmJx648-11">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" parent="-0Y5yQMIjSoz9cmJx648-11" vertex="1" connectable="0">
           <mxGeometry x="0.0519" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Y5yQMIjSoz9cmJx648-13" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="-0Y5yQMIjSoz9cmJx648-11">
+        <mxCell id="-0Y5yQMIjSoz9cmJx648-13" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" parent="-0Y5yQMIjSoz9cmJx648-11" vertex="1" connectable="0">
           <mxGeometry x="0.037" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AGBGROCMwEctwdFnp3_-1" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+        <mxCell id="_AGBGROCMwEctwdFnp3_-1" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-908.05" y="1135" as="sourcePoint" />
             <mxPoint x="-1020" y="250" as="targetPoint" />
@@ -446,7 +446,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AGBGROCMwEctwdFnp3_-2" value="重新开始" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="_AGBGROCMwEctwdFnp3_-1">
+        <mxCell id="_AGBGROCMwEctwdFnp3_-2" value="重新开始" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" parent="_AGBGROCMwEctwdFnp3_-1" vertex="1" connectable="0">
           <mxGeometry x="0.0513" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -479,10 +479,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKCkRh9Jxb4LJDaYJURP-1" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;由于增加了事务的概念 对一些厂家造成了一些疑惑。可以将入库的事务操作从：开启事务-&amp;gt;停止事务-&amp;gt;提交事务，理解为：开始扫描-&amp;gt;停止扫描-&amp;gt;提交数据&lt;br&gt;增加事务ID 的好处：1.可以保证每一次操作都是唯一。2.保护RfidReader 设备，防止开启后忘记关闭 3.对于排查日志起到了关键的作用。&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="sKCkRh9Jxb4LJDaYJURP-1" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;由于增加了事务的概念 对一些厂家造成了一些疑惑。可以将入库的事务操作从：开启事务-&amp;gt;停止事务-&amp;gt;提交事务，理解为：开始扫描-&amp;gt;停止扫描-&amp;gt;提交数据&lt;br&gt;增加事务ID 的好处：1.可以保证每一次操作都是唯一。2.保护RfidReader 设备，防止开启后忘记关闭 3.对于排查日志起到了关键的作用。.&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1100" y="-190" width="860" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="sKCkRh9Jxb4LJDaYJURP-2" value="说明" style="resizeWidth=1;part=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;spacingLeft=5;fontSize=20;" vertex="1" parent="sKCkRh9Jxb4LJDaYJURP-1">
+        <mxCell id="sKCkRh9Jxb4LJDaYJURP-2" value="说明" style="resizeWidth=1;part=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;spacingLeft=5;fontSize=20;" parent="sKCkRh9Jxb4LJDaYJURP-1" vertex="1">
           <mxGeometry width="860" height="25" relative="1" as="geometry" />
         </mxCell>
       </root>
