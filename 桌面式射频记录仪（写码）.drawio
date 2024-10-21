@@ -70,7 +70,7 @@
             <mxPoint x="-160" y="58" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20" value="organize &#xa;workforce" style="shape=mxgraph.flowchart.manual_input;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="20" value="选择x秒后读取最多的Epc" style="shape=mxgraph.flowchart.manual_input;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="242" y="780" width="158" height="80" as="geometry" />
         </mxCell>
         <mxCell id="21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=0.5;entryY=0.195;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-VFkh3BsfnPw2SD_qIt7-55" target="20" edge="1">
@@ -246,7 +246,7 @@
         <mxCell id="55" value="no" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="235" y="1624" width="40" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-VFkh3BsfnPw2SD_qIt7-55" value="x秒后读取&lt;div&gt;最多标签&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="-VFkh3BsfnPw2SD_qIt7-55" value="是否有标签" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="266.5" y="651.5" width="109" height="57" as="geometry" />
         </mxCell>
       </root>
