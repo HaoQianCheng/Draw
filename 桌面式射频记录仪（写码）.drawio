@@ -217,7 +217,10 @@
           <mxGeometry x="18" y="10" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rIQcrwHjgIx_UqIxxkkd-52" value="1.写入失败，核查时读到new epc（是否有这种情况）" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="5l99on6ANd_aUowF-hH1-79">
-          <mxGeometry x="808" y="40" width="320" height="90" as="geometry" />
+          <mxGeometry x="808" y="20" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5l99on6ANd_aUowF-hH1-81" value="是否要过滤已经写过的标签？？" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="590" width="320" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
