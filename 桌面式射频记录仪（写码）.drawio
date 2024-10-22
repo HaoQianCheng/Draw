@@ -112,19 +112,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VFkh3BsfnPw2SD_qIt7-65" value="进入写Handler" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="231.5" y="1050" width="159" height="80" as="geometry" />
+          <mxGeometry x="231" y="1030" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-VFkh3BsfnPw2SD_qIt7-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.561;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="22" target="-VFkh3BsfnPw2SD_qIt7-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-VFkh3BsfnPw2SD_qIt7-67" value="是否选择成功？" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="251" y="1190" width="119" height="78.5" as="geometry" />
+          <mxGeometry x="250" y="1140" width="119" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="-VFkh3BsfnPw2SD_qIt7-68" value="重试 x 次后&lt;div&gt;失败后提示用户&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1184.25" width="159" height="90" as="geometry" />
+          <mxGeometry x="450" y="1134.25" width="159" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-VFkh3BsfnPw2SD_qIt7-69" value="是否写入成功？&lt;br&gt;（失败重试）" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="251.5" y="1330" width="119" height="78.5" as="geometry" />
+          <mxGeometry x="250" y="1261.5" width="119" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="-VFkh3BsfnPw2SD_qIt7-70" value="验证x秒后&lt;br&gt;是否读取到写入成功的&lt;div&gt;EPC&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="201" y="1490" width="220" height="78.5" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-70" value="记录数据库" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370.5" y="1910" width="419.5" height="130" as="geometry" />
+          <mxGeometry x="350" y="2150" width="419.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.23;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-VFkh3BsfnPw2SD_qIt7-84" target="5l99on6ANd_aUowF-hH1-70">
           <mxGeometry relative="1" as="geometry" />
@@ -210,16 +210,14 @@
         <mxCell id="5l99on6ANd_aUowF-hH1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.602;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5l99on6ANd_aUowF-hH1-64" target="5l99on6ANd_aUowF-hH1-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5l99on6ANd_aUowF-hH1-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.919;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5l99on6ANd_aUowF-hH1-65" target="5l99on6ANd_aUowF-hH1-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="977" y="1820" />
-              <mxPoint x="756" y="1820" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="5l99on6ANd_aUowF-hH1-79" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="32" y="1400" width="1148" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="rIQcrwHjgIx_UqIxxkkd-52" value="1.写入失败，核查时读到new epc（是否有这种情况）" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1184.25" width="320" height="90" as="geometry" />
+        <mxCell id="5l99on6ANd_aUowF-hH1-80" value="核查环节" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l99on6ANd_aUowF-hH1-79">
+          <mxGeometry x="18" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rIQcrwHjgIx_UqIxxkkd-52" value="1.写入失败，核查时读到new epc（是否有这种情况）" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="5l99on6ANd_aUowF-hH1-79">
+          <mxGeometry x="808" y="40" width="320" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
