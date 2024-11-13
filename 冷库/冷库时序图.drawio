@@ -2715,7 +2715,7 @@
           <mxGeometry x="-870" y="2496.9" width="10" height="45.1" as="geometry" />
         </mxCell>
         <mxCell id="76Qs3auL_R9KPoYahK-s-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-659.22" y="2570" width="10" height="60" as="geometry" />
+          <mxGeometry x="-659.22" y="2570" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="76Qs3auL_R9KPoYahK-s-3" value="&lt;font face=&quot;Microsoft YaHei&quot; color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;b&gt;触发出入口扫描&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10.5pt; letter-spacing: 0pt; text-align: start; text-wrap: wrap;&quot;&gt;AutomaticScan&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13.3333px;&quot;&gt;）&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.684;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0017" width="80" relative="1" as="geometry">
