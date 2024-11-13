@@ -2532,7 +2532,7 @@
         <mxCell id="A9FB85swEZvqlA5AJCxd-206" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="A9FB85swEZvqlA5AJCxd-41">
           <mxGeometry x="80" y="2080" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A9FB85swEZvqlA5AJCxd-207" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="A9FB85swEZvqlA5AJCxd-206" parent="A9FB85swEZvqlA5AJCxd-41">
+        <mxCell id="A9FB85swEZvqlA5AJCxd-207" value="显示待补扫数量" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="A9FB85swEZvqlA5AJCxd-206" parent="A9FB85swEZvqlA5AJCxd-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="85" y="2060" as="sourcePoint" />
             <Array as="points">
