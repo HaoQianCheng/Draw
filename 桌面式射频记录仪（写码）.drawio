@@ -175,7 +175,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5l99on6ANd_aUowF-hH1-62" value="写入失败&lt;br&gt;（提示：重新写入？）" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="5l99on6ANd_aUowF-hH1-62" value="写入失败&lt;br&gt;（重试写入操作）" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="427.5" y="1660" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-VFkh3BsfnPw2SD_qIt7-70" target="5l99on6ANd_aUowF-hH1-62" edge="1">
@@ -189,9 +189,6 @@
         <mxCell id="5l99on6ANd_aUowF-hH1-64" value="原始EPC 未乱&lt;br&gt;（提示：重新写入？）" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="670.5" y="1650" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5l99on6ANd_aUowF-hH1-65" value="提示：自动修复中" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="897" y="1640" width="159" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5l99on6ANd_aUowF-hH1-57" target="5l99on6ANd_aUowF-hH1-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -200,8 +197,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5l99on6ANd_aUowF-hH1-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.581;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5l99on6ANd_aUowF-hH1-57" target="5l99on6ANd_aUowF-hH1-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5l99on6ANd_aUowF-hH1-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5l99on6ANd_aUowF-hH1-57" target="DVidga_Z1BIldywWT1oF-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020.7530000000002" y="1642.1599999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DVidga_Z1BIldywWT1oF-52" value="未找到原始EPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5l99on6ANd_aUowF-hH1-69">
           <mxGeometry x="-0.3011" relative="1" as="geometry">
@@ -218,7 +217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-79" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="32" y="1400" width="1148" height="610" as="geometry" />
+          <mxGeometry x="32" y="1400" width="1338" height="700" as="geometry" />
         </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-80" value="核查环节" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5l99on6ANd_aUowF-hH1-79" vertex="1">
           <mxGeometry x="18" y="10" width="70" height="30" as="geometry" />
@@ -226,17 +225,43 @@
         <mxCell id="rIQcrwHjgIx_UqIxxkkd-52" value="1.写入失败，核查时读到new epc（是否有这种情况）" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="5l99on6ANd_aUowF-hH1-79" vertex="1">
           <mxGeometry x="808" y="20" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DVidga_Z1BIldywWT1oF-53" value="是否写入成功？&lt;br&gt;（失败重试）" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="5l99on6ANd_aUowF-hH1-79">
-          <mxGeometry x="885" y="410" width="119" height="78.5" as="geometry" />
+        <mxCell id="DVidga_Z1BIldywWT1oF-53" value="验证可以解析出正常的EPC&lt;br&gt;（根据解析出内容）" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="5l99on6ANd_aUowF-hH1-79">
+          <mxGeometry x="869" y="410" width="205" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DVidga_Z1BIldywWT1oF-59" value="请勿移动血袋" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="5l99on6ANd_aUowF-hH1-79">
+          <mxGeometry x="768" y="570" width="221" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DVidga_Z1BIldywWT1oF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5l99on6ANd_aUowF-hH1-79" source="DVidga_Z1BIldywWT1oF-53" target="DVidga_Z1BIldywWT1oF-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVidga_Z1BIldywWT1oF-65" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVidga_Z1BIldywWT1oF-60">
+          <mxGeometry x="-0.2303" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVidga_Z1BIldywWT1oF-55" value="写入乱码&lt;div&gt;（写入失败，用修复功能）&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="5l99on6ANd_aUowF-hH1-79">
+          <mxGeometry x="1008" y="580" width="221" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DVidga_Z1BIldywWT1oF-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5l99on6ANd_aUowF-hH1-79" source="DVidga_Z1BIldywWT1oF-53" target="DVidga_Z1BIldywWT1oF-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1117.9999999999995" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1108" y="449" />
+              <mxPoint x="1108" y="550" />
+              <mxPoint x="1109" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVidga_Z1BIldywWT1oF-64" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVidga_Z1BIldywWT1oF-63">
+          <mxGeometry x="0.0274" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-81" value="是否要过滤已经写过的标签？？" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="590" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5l99on6ANd_aUowF-hH1-83" value="发送15位献血码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="489" y="925" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DVidga_Z1BIldywWT1oF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5l99on6ANd_aUowF-hH1-65" target="DVidga_Z1BIldywWT1oF-53">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
